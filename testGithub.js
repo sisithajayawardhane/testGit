@@ -19,3 +19,4 @@ connection.connect((err) => {
 
 // Export the connection for use in other modules
 module.exports = connection;
+// Export the connection for use in other modules
